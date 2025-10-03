@@ -1,0 +1,2 @@
+# Resturant-s-foodplan-API-with-Node.js-Express-Mongo-DB
+A backend API for a Food Plan App built with Node.js, Express, and MongoDB. This project handles user management, restaurants, orders, categories, and authentication using Mongoose models and middlewares. Features include: RESTful API structure with Express , MongoDB integration with Mongoose , Models for Users, Restaurants, Orders, and Categories
